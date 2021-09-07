@@ -29,8 +29,8 @@
 <a href="https://twitter.com/connectaman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="connectaman1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/connectaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connectaman" height="30" width="40" /></a>
 <a href="https://kaggle.com/connectaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="connectaman" height="30" width="40" /></a>
-<a href="https://fb.com/aman_ulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman_ulla" height="30" width="40" /></a>
-<a href="https://instagram.com/aman_ulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_ulla" height="30" width="40" /></a>
+<a href="https://fb.com/aman_ulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman0ulla" height="30" width="40" /></a>
+<a href="https://instagram.com/aman_ulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman0ulla" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aman ulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman ulla" height="30" width="40" /></a>
 </p>
 
