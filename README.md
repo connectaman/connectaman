@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/connectaman1" target="blank"><img src="https://img.shields.io/twitter/follow/connectaman1?logo=twitter&style=for-the-badge" alt="connectaman1" /></a> </p>
 
-- 🔭 I’m currently working at **CitiusTech**
+- 🔭 I’m currently working at **ZS Associates**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
