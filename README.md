@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I’m <strong>Aman Ulla</strong></h1>
 <h3 align="center">
-  AI/ML Engineer • Cloud Enthusiast • Open-Source Contributor<br/>
+  Full Stack AI/ML/GenAI Architect<br/>
 </h3>
 
 <p align="center">
@@ -19,10 +19,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently at **Thoughtworks**, driving AI/ML solutions for enterprise clients  
-- 🌱 Learning cutting-edge **Machine Learning** & **Artificial Intelligence**  
-- 👯 Open to collaborating on **AutoML** & **MLOps** projects  
-- 💬 Ask me about **AI**, **Azure**, **Python**, **Cloud Architecture**  
 - 📫 Reach me at [connectamanulla@gmail.com](mailto:connectamanulla@gmail.com)  
 - 🌐 Portfolio: [amanulla.in](http://www.amanulla.in)  
 - 📝 Articles: [hashnode.com/@connectaman](https://hashnode.com/@connectaman)
